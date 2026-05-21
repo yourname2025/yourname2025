@@ -1,76 +1,74 @@
-Hi there 👋, I'm Hana Mahmoud 💜
+Hi there, I'm Hana Mahmoud 👋
 
-💻 Computer Science Student | Future Flutter Developer
+💻 Computer Science Student & Flutter Developer
 
-<img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>class HanaMahmoud {
-  final String role = "Flutter Developer 🚀";
-  final String education = "Computer Science Student";
+class AboutMe {
+  final String name = "Hana Mahmoud";
 
-  final List<String> languages = [
+  final List<String> programmingLanguages = [
     "Dart",
-    "C++",
+    "JavaScript",
     "Python",
-    "JavaScript"
+    "C++"
   ];
 
-  final List<String> tools = [
+  final List<String> frameworksAndTools = [
     "Flutter",
-    "Firebase",
     "Figma",
+    "Firebase",
     "Git",
     "VS Code"
   ];
 
-  String goal = "Learning something new every day ✨";
+  final String passion =
+      "Building beautiful mobile apps and learning new technologies.";
 }
 
 ---
 
-🚀 About Me
+🚀 Tech Stack
 
-- 🎓 Computer Science student
-- 📱 Learning Flutter development
-- 🎨 Designing UI using Figma
-- 💡 Passionate about mobile app development
-- 🌱 Every new skill I learn gets added here ✨
+👩‍💻 Programming Languages
 
----
+- Dart
+- JavaScript
+- Python
+- C++
 
-🛠️ Tech Stack
+📱 Frameworks & Tools
 
-👩‍💻 Languages
-
-"Dart" (https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
-"C++" (https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-"Python" (https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-"JavaScript" (https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-
-⚡ Tools
-
-"Flutter" (https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
-"Firebase" (https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)
-"Figma" (https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)
-"Git" (https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-"VS Code" (https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visualstudiocode)
+- Flutter
+- Firebase
+- Figma
+- Git & GitHub
+- VS Code
 
 ---
 
-📊 GitHub Stats
+🌱 Currently Learning
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>---
-
-✨ Little About Me
-
-💻 CS Student
-📱 Future Flutter Developer
-🎨 Figma Designer
-🚀 Learning & Growing Everyday
+- Advanced Flutter
+- UI/UX Design
+- Backend Development
 
 ---
 
-🌸 Quote
+🎨 Interests
 
-«“Code it until it works… then make it beautiful.” 💜»
+- Mobile App Development
+- UI/UX Design
+- Problem Solving
+- Exploring new technologies
+
+---
+
+📫 Connect With Me
+
+- GitHub: your-github-link
+- LinkedIn: your-linkedin-link
+
+---
+
+<div align="center">✨ “Code. Create. Improve.” ✨
+
+</div>
