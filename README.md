@@ -1,66 +1,44 @@
-// tools_I_use organized
+<div align="center" width="50">
 
-class About extends Me {
-  const myTools = {
-    "Name": "Hana Mahmoud",
-    "Role": "Flutter Developer 💙",
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 
-    "ProgramingLanguages": {
-      "Dart", "JavaScript", "C++", "Python"
-    },
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
-    "MobileFrameworks": {
-      "Flutter"
-    },
+# Hi, I'm Hana Mahmoud 👩‍💻
+### Flutter Developer & UI Designer ✨
 
-    "OtherLanguages": {
-      "HTML", "CSS", "Bash", "JSON", "Markdown"
-    },
+<details>
+<p><strong><summary> Busy coding & Vibing to : </summary></strong></p>
 
-    "Database": {
-      "Firebase", "SQLite", "PostgreSQL"
-    },
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/) <br>
 
-    "Editors": {
-      "VS Code", "Android Studio", "Sublime", "Neovim"
-    },
+</details>
 
-    "Platforms": {
-      "Android", "iOS", "Windows", "Linux", "Mac"
-    },
+![Profile Views](https://komarev.com/ghpvc/?username=hanamahmoud&style=flat&color=orange&label=PROFILE+VIEWS)
 
-    "OtherTools": {
-      "Git", "GitHub", "Figma", "Photoshop"
-    }
-  };
+[![telegram badge](https://img.shields.io/badge/Hana_Mahmoud-grey?style=flat&logo=telegram)](https://t.me/yourusername)
+
+</div>
+
+---
+
+# 🚀 About Me
+
+`dart
+class AboutMe {
+  String name = "Hana Mahmoud";
+
+  List<String> skills = [
+    "Flutter Development",
+    "UI/UX Design",
+    "Mobile App Development"
+  ];
+
+  List<String> tools = [
+    "Flutter",
+    "Dart",
+    "Figma",
+    "Firebase",
+    "Git"
+  ];
 }
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />
-  &nbsp; I’m a Flutter Developer passionate about building clean and scalable mobile apps. 💙
-  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" /><br>
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
-  &nbsp; I enjoy exploring software architecture, UI/UX design, and mobile development trends.<br>
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />
-  &nbsp; Ask me about Flutter, Dart, Firebase, or mobile app development.<br>
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />
-  &nbsp; Connect with me on GitHub or Telegram.<br>
-
-- &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />
-  &nbsp; Fun fact: I can spend hours perfecting UI details and still not be satisfied 😄<br>
-  - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />
-  &nbsp; I’m a Flutter Developer passionate about building clean and scalable mobile apps. 💙
-  <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="15%" /><br>
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />
-  &nbsp; I enjoy exploring software architecture, UI/UX design, and mobile development trends.<br>
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />
-  &nbsp; Ask me about Flutter, Dart, Firebase, or mobile app development.<br>
-
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />
-  &nbsp; Connect with me on GitHub or Telegram.<br>
-
-- &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />
-  &nbsp; Fun fact: I can spend hours perfecting UI details and still not be satisfied 😄<br>
