@@ -3,7 +3,6 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/>
-
 # Hi, I'm Hana Mahmoud 👩‍💻
 ### Flutter Developer & UI Designer ✨
 
@@ -16,6 +15,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hanamahmoud&style=flat&color=orange&label=PROFILE+VIEWS)
 
+[![telegram badge](https://img.shields.io/badge/Hana_Mahmoud-grey?style=flat&logo=telegram)](https://t.me/yourusername)
+
 </div>
 
 ---
@@ -26,23 +27,17 @@
 class AboutMe {
   String name = "Hana Mahmoud";
 
-  List<String> programmingLanguages = [
+  List<String> skills = [
+    "Flutter Development",
+    "UI/UX Design",
+    "Mobile App Development"
+  ];
+
+  List<String> tools = [
+    "Flutter",
     "Dart",
-    "Python",
-    "C++"
-  ];
-
-  List<String> frameworks = [
-    "Flutter"
-  ];
-
-  List<String> designTools = [
-    "Figma"
-  ];
-
-  List<String> otherTools = [
+    "Figma",
     "Firebase",
-    "Git",
-    "VS Code"
+    "Git"
   ];
 }
