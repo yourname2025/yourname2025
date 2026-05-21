@@ -1,7 +1,6 @@
-<div align="center" width="50">
+<div align="center" width="60">
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%"/>
 # Hi, I'm Hana Mahmoud 👩‍💻
 ### Flutter Developer & UI Designer ✨
